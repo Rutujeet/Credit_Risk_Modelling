@@ -6,7 +6,7 @@ This project explores and builds models to predict the probability of a customer
 ## Dataset
 The dataset used is from the UCI Credit Card Default Dataset, which includes features such as credit limit, payment history, and customer demographics.
 
-[Dataset]([URL](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?resource=download))
+[Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?resource=download)
 
 ## Key Features:
 - **Preprocessing**: 
